@@ -19,6 +19,10 @@ Click the Preview button to see the changes before commmit.
   </a>
 </p>
 
+## Gmail ID
+[![Gmail Badge](https://img.shields.io/badge/-krishnaavinash98@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:krishnaavinash98@gmail.com)](mailto:krishnaavinash98@gmail.com)
+
+
 ##
 <p align="left">
   <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
